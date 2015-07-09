@@ -17,7 +17,7 @@ https://instagram.com
 
 #My small study about the instagram world and the picture world.
 
-This small study about the
+This small study is about the instagram api and pictures.
 
 #How to use this app
 
@@ -25,31 +25,34 @@ Change the file client_credential.php and put your CLIENT_ID and CLIENT_SECRET
 
 See:
 
+```
 $CLIENT_ID = 'XXXXXXXXXX';
 $CLIENT_SECRET = 'YYYYYYYYYYY';
+```
 
 
-Instagram App URLs
-Instagram User Search:
-http://localhost:8282/instagram-app/search_for_users.php
+#Instagram App URLs
 
-Instagram User Profile
-http://localhost:8282/instagram-app/get_user_profiles.php
+Instagram User Search:<BR>
+http://localhost:8282/instagram-app/search_for_users.php<BR>
 
-Instagram User Relationships
-http://localhost:8282/instagram-app/get_user_relationships.php
+Instagram User Profile<BR>
+http://localhost:8282/instagram-app/get_user_profiles.php<BR>
 
-Instagram Get Image data
-http://localhost:8282/instagram-app/image_data.php
+Instagram User Relationships<BR>
+http://localhost:8282/instagram-app/get_user_relationships.php<BR>
 
-http://localhost:8282/instagram-app/popular_instagram_photos.php
-http://localhost:8282/instagram-app/search_images_by_location.php
-http://localhost:8282/instagram-app/search_by_tag.php
-http://localhost:8282/instagram-app/search_images_by_tag.php
+Instagram Get Image data<BR>
+http://localhost:8282/instagram-app/image_data.php<BR><BR>
+
+http://localhost:8282/instagram-app/popular_instagram_photos.php<BR>
+http://localhost:8282/instagram-app/search_images_by_location.php<BR>
+http://localhost:8282/instagram-app/search_by_tag.php<BR>
+http://localhost:8282/instagram-app/search_images_by_tag.php<BR>
 
 
 
-More links:
-http://mygeoposition.com
-http://www.ibm.com/developerworks/xml/library/x-instagram1/index.html#retrievedetails/
-http://www.ibm.com/developerworks/library/x-instagram2/index.html
+#More links:
+http://mygeoposition.com<BR>
+http://www.ibm.com/developerworks/xml/library/x-instagram1/index.html#retrievedetails/<BR>
+http://www.ibm.com/developerworks/library/x-instagram2/index.html<BR>
