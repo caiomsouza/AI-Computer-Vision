@@ -3,7 +3,9 @@ Instagram API
 
 The first version of the Instagram API is an exciting step forward towards making it easier for users to have open access to their data. We created it so that you can surface the amazing content Instagram users share every second, in fun and innovative ways.
 
-https://instagram.com/developer/
+https://instagram.com/developer/<BR><BR>
+
+https://github.com/Instagram/python-instagram<BR><BR>
 
 #What is Instagram?
 
@@ -31,7 +33,7 @@ $CLIENT_SECRET = 'YYYYYYYYYYY';
 ```
 
 
-#Instagram App URLs
+#Instagram App URLs (PHP)
 
 Instagram User Search:<BR>
 http://localhost:8282/instagram-app/search_for_users.php<BR>
@@ -49,6 +51,11 @@ http://localhost:8282/instagram-app/popular_instagram_photos.php<BR>
 http://localhost:8282/instagram-app/search_images_by_location.php<BR>
 http://localhost:8282/instagram-app/search_by_tag.php<BR>
 http://localhost:8282/instagram-app/search_images_by_tag.php<BR>
+
+#Instagram App (Python)
+
+See the code:<BR>
+https://github.com/caiomsouza/instagram-api/blob/master/python/instagram_api.py<BR>
 
 
 
