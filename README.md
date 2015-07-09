@@ -75,6 +75,8 @@ http://www.sno.phy.queensu.ca/~phil/exiftool/faq.html<BR>
 #PyExifTool – A Python wrapper for Phil Harvey’s ExifTool
 http://smarnach.github.io/pyexiftool/
 
+# Photo EXIF Analysis | rCharts + catcorrjs + exiftool
+http://timelyportfolio.github.io/rCharts_catcorrjs/exif/
 
 #More links:
 http://mygeoposition.com<BR>
