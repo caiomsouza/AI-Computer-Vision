@@ -57,6 +57,23 @@ http://localhost:8282/instagram-app/search_images_by_tag.php<BR>
 See the code:<BR>
 https://github.com/caiomsouza/instagram-api/blob/master/python/instagram_api.py<BR>
 
+#Getting the picture metadata
+Use a software called ExifTool.<BR>
+http://www.sno.phy.queensu.ca/~phil/exiftool/
+
+I tried on my Mac OS the version below:<BR>
+Mac OS X Package: ExifTool-9.98.dmg (2.5 MB)<BR>
+
+On the Mac OS Terminal or Linux type:<BR>
+
+exiftool /Users/caiomsouza/Downloads/picuture_name.jpg > track.log<BR>
+
+See also:<BR>
+http://www.sno.phy.queensu.ca/~phil/exiftool/faq.html<BR>
+
+
+#PyExifTool – A Python wrapper for Phil Harvey’s ExifTool
+http://smarnach.github.io/pyexiftool/
 
 
 #More links:
