@@ -78,6 +78,42 @@ http://smarnach.github.io/pyexiftool/
 # Photo EXIF Analysis | rCharts + catcorrjs + exiftool
 http://timelyportfolio.github.io/rCharts_catcorrjs/exif/
 
+#OpenCV
+OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, C, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications. Written in optimized C/C++, the library can take advantage of multi-core processing. Enabled with OpenCL, it can take advantage of the hardware acceleration of the underlying heterogeneous compute platform. Adopted all around the world, OpenCV has more than 47 thousand people of user community and estimated number of downloads exceeding 9 million. Usage ranges from interactive art, to mines inspection, stitching maps on the web or through advanced robotics.
+http://opencv.org
+
+OpenCV Tutorials
+http://docs.opencv.org/doc/tutorials/tutorials.html
+
+objdetect module. Object Detection
+http://docs.opencv.org/doc/tutorials/objdetect/table_of_content_objdetect/table_of_content_objdetect.html#table-of-content-objdetect
+
+imgproc module. Image Processing
+http://docs.opencv.org/doc/tutorials/imgproc/table_of_content_imgproc/table_of_content_imgproc.html#table-of-content-imgproc
+
+# Image Recognition APIs (Open Source and Free Software)
+
+## Pastec - The open source image recognition platform for your mobile apps.
+http://pastec.io
+https://github.com/Visu4link/pastec
+Your free image recognition platform
+Pastec is an open source image recognition index and search engine designed for your mobile apps
+
+
+## Image Recognition APIs (SaaS)
+
+https://imagga.com
+
+http://cloudsightapi.com
+
+https://www.recognize.im
+
+
+##List of 14+ Image Recognition APIs
+http://blog.mashape.com/list-of-14-image-recognition-apis/
+
+
+
 #More links:
 http://mygeoposition.com<BR>
 http://www.ibm.com/developerworks/xml/library/x-instagram1/index.html#retrievedetails/<BR>
