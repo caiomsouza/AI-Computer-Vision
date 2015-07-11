@@ -112,6 +112,8 @@ https://www.recognize.im
 ##List of 14+ Image Recognition APIs
 http://blog.mashape.com/list-of-14-image-recognition-apis/
 
+# Analyze Instagram with R
+http://thinktostart.com/analyze-instagram-r/
 
 
 #More links:
