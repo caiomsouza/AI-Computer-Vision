@@ -118,6 +118,17 @@ http://thinktostart.com/analyze-instagram-r/
 #R Tutorials
 https://github.com/JulianHill/R-Tutorials
 
+# Robots 
+http://www.saocarlos.usp.br/index.php?option=com_content&task=view&id=7363&Itemid=186<BR>
+http://tecnologia.terra.com.br/robos/funcionario-robo-faz-sucesso-com-turistas-no-aeroporto-de-genebra,e76a66a9911d0410VgnVCM10000098cceb0aRCRD.html<BR>
+http://tecnologia.terra.com.br/robos/funcionario-robo-faz-sucesso-com-turistas-no-aeroporto-de-genebra,e76a66a9911d0410VgnVCM10000098cceb0aRCRD.html<BR>
+https://www.youtube.com/watch?v=h5xpO_p6lAs<BR>
+http://www.nasa.gov/vision/universe/roboticexplorers/robots_like_people_prt.htm<BR>
+http://www.gizmag.com/pepper-robot-release/38079/<BR>
+http://www.robots.ox.ac.uk/~minhhoai/papers/TalkingHead_CVPR14.pdf<BR>
+
+A Mobile Robot That Recognizes People<BR>
+https://personal.traclabs.com/~korten/publications/tools95.pdf<BR>
 
 #More links:
 http://mygeoposition.com<BR>
