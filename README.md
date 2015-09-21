@@ -12,7 +12,14 @@ Computer vision is a field that includes methods for acquiring, processing, anal
 Source:<BR>
 https://en.wikipedia.org/wiki/Computer_vision<BR>
 
+##Talking Heads: Detecting Humans and Recognizing Their Interactions<BR>
+http://www.robots.ox.ac.uk/~minhhoai/papers/TalkingHead_CVPR14.pdf<BR>
 
+##A Mobile Robot That Recognizes People<BR>
+https://personal.traclabs.com/~korten/publications/tools95.pdf<BR>
+
+##The wonderful and terrifying implications of computers that can learn<BR>
+http://blog.professorcoruja.com/2015/09/the-wonderful-and-terrifying.html<BR>
 
 # instagram-api
 Instagram API
@@ -141,12 +148,6 @@ http://tecnologia.terra.com.br/robos/funcionario-robo-faz-sucesso-com-turistas-n
 https://www.youtube.com/watch?v=h5xpO_p6lAs<BR>
 http://www.nasa.gov/vision/universe/roboticexplorers/robots_like_people_prt.htm<BR>
 http://www.gizmag.com/pepper-robot-release/38079/<BR>
-
-Talking Heads: Detecting Humans and Recognizing Their Interactions<BR>
-http://www.robots.ox.ac.uk/~minhhoai/papers/TalkingHead_CVPR14.pdf<BR>
-
-A Mobile Robot That Recognizes People<BR>
-https://personal.traclabs.com/~korten/publications/tools95.pdf<BR>
 
 #More links:
 http://mygeoposition.com<BR>
