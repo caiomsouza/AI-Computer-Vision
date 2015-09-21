@@ -1,3 +1,19 @@
+# Artificial Intelligence<BR><BR>
+
+Artificial intelligence (AI) is the intelligence exhibited by machines or software. It is also the name of the academic field of study which studies how to create computers and computer software that are capable of intelligent behavior. Major AI researchers and textbooks define this field as "the study and design of intelligent agents",[1] in which an intelligent agent is a system that perceives its environment and takes actions that maximize its chances of success.[2] John McCarthy, who coined the term in 1955,[3] defines it as "the science and engineering of making intelligent machines".[4]<BR><BR>
+
+Source:<BR>
+https://en.wikipedia.org/wiki/Artificial_intelligence<BR>
+
+# Computer Vision<BR><BR>
+
+Computer vision is a field that includes methods for acquiring, processing, analyzing, and understanding images and, in general, high-dimensional data from the real world in order to produce numerical or symbolic information, e.g., in the forms of decisions.[1][2][3][4] A theme in the development of this field has been to duplicate the abilities of human vision by electronically perceiving and understanding an image.[5] This image understanding can be seen as the disentangling of symbolic information from image data using models constructed with the aid of geometry, physics, statistics, and learning theory.[6] Computer vision has also been described as the enterprise of automating and integrating a wide range of processes and representations for vision perception.[7]<BR><BR>
+
+Source:<BR>
+https://en.wikipedia.org/wiki/Computer_vision<BR>
+
+
+
 # instagram-api
 Instagram API
 
