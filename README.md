@@ -125,6 +125,8 @@ http://tecnologia.terra.com.br/robos/funcionario-robo-faz-sucesso-com-turistas-n
 https://www.youtube.com/watch?v=h5xpO_p6lAs<BR>
 http://www.nasa.gov/vision/universe/roboticexplorers/robots_like_people_prt.htm<BR>
 http://www.gizmag.com/pepper-robot-release/38079/<BR>
+
+Talking Heads: Detecting Humans and Recognizing Their Interactions<BR>
 http://www.robots.ox.ac.uk/~minhhoai/papers/TalkingHead_CVPR14.pdf<BR>
 
 A Mobile Robot That Recognizes People<BR>
